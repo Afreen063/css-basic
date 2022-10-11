@@ -5,10 +5,13 @@ p
     opacity: 0.1;
 }
 .one{
-    width: 1500px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     color:blue;
-    background-image: url(https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576847__480.png);
+    border: solid black;
+    background-color: aqua;
+    margin:100px ;
+    padding: 20px;
     
 }
 
@@ -19,6 +22,7 @@ p
     background-image: url(https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576847__480.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+    border-style: dotted solid dotted solid;
 }
 .three{
     width: 2000px;
