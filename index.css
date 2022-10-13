@@ -7,16 +7,17 @@
     background-color: aqua;
     padding: 0px 100px 0px 80px;
     box-sizing: border-box;
+    outline-style: solid;
+    outline-width: thick;
+    outline-color: blue;
+    outline-offset: 10px;
 }
 
 .two{
     width:1500px;
     height: 600px;
-    color: black;
-    background-image: url(https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576847__480.png);
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    border-style: dotted solid dotted solid;
+    
+  
 }
 .three{
     width: 2000px;
