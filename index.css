@@ -11,6 +11,8 @@
     outline-width: thick;
     outline-color: blue;
     outline-offset: 10px;
+    direction: rtl;
+    unicode-bidi: bidi-override;
 }
 
 .two{
