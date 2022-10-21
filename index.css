@@ -11,7 +11,7 @@
     outline-width: thick;
     outline-color: blue;
     outline-offset: 10px;
-    
+    font: 1em sans-serif;
     unicode-bidi: bidi-override;
 }
 
